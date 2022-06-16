@@ -1,2 +1,2 @@
-# AirBnB_clone_v2
-Clone 2
+## This is Airbnb clone v2
+by Quincy Mashava and Hezekiah Elisha
